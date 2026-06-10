@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Mohan G.C. 👋
 
-<!--
-**MohanGC07/MohanGC07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer passionate about Artificial Intelligence, Machine Learning, Data Science, Python Development, and Robotics.
 
-Here are some ideas to get you started:
+Currently working as a Coding & Robotics Instructor while building practical AI, Machine Learning, and Software Engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Graduate
+- 🤖 Robotics Instructor
+- 🐍 Python Developer
+- 📊 Data Science Learner
+- 🧠 AI & Machine Learning Enthusiast
+- 🇳🇵 Based in Nepal
+
+---
+
+## 🎯 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Python Development
+- Computer Vision
+- Natural Language Processing
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+
+Python | SQL | JavaScript | HTML | CSS
+
+### Data Science
+
+Pandas | NumPy | Scikit Learn
+
+### Development
+
+Git | GitHub | Django
+
+### Interests
+
+Artificial Intelligence | Machine Learning | Robotics
+
+---
+
+## 📌 Featured Project
+
+### AI Based News Anchoring System
+
+Developed an AI powered news anchoring platform that automates news presentation and content delivery using Artificial Intelligence concepts.
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
+- NLP
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/mohangcofficial07
+
+GitHub:
+github.com/MohanGC07
+
+Email:
+gcmohan405@gmail.com
