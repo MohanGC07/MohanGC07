@@ -5,6 +5,10 @@ Computer Engineer passionate about Artificial Intelligence, Machine Learning, Da
 
 Currently working as a Coding & Robotics Instructor while building practical AI, Machine Learning, and Software Engineering projects.
 
+[LinkedIn](https://www.linkedin.com/in/mohangcofficial07)
+
+[GitHub](https://github.com/MohanGC07)
+
 ---
 
 ## 🚀 About Me
