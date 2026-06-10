@@ -13,9 +13,15 @@ Currently working as a Coding & Robotics Instructor while building practical AI,
 - 🐍 Python Developer
 - 📊 Data Science Learner
 - 🧠 AI & Machine Learning Enthusiast
-- 🇳🇵 Based in Nepal
 
 ---
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohanGC07&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanGC07&layout=compact)
+
+--------
 
 ## 🎯 Current Focus
 
