@@ -1,4 +1,5 @@
 # Hi, I'm Mohan G.C. 👋
+![](https://komarev.com/ghpvc/?username=MohanGC07)
 
 Computer Engineer passionate about Artificial Intelligence, Machine Learning, Data Science, Python Development, and Robotics.
 
